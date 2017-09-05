@@ -11,7 +11,7 @@ JavaScript locally and trust that the JavaScript did not change after being
 loaded.
 
 This project is based on code from bitaddress.org. Their project can be found at:
-https://github.com/pointbiz/bitaddress.org.
+https://github.com/pointbiz/bitaddress.org. and graphical modification by https://github.com/theantnest/bccaddress
 
 END USER NOTES:
  1) Google Chrome is recommended for the Bulk Wallet.
@@ -53,6 +53,7 @@ window.Bitcoin | MIT License
 
 The bccaddress.org software is available under The MIT License (MIT)
 Copyright (c) 2017 bccaddress.org
+
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
